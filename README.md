@@ -53,6 +53,10 @@ I build systems that run locally, respond in real-time, and don’t depend on pe
 
 ---
 
+## 📊 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ParthCh300X&theme=tokyonight&hide_border=true)
+
 ## 📫
 
 If it works offline, scales cleanly, and solves something real — I’m interested.
