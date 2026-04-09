@@ -53,9 +53,16 @@ I build systems that run locally, respond in real-time, and don’t depend on pe
 
 ---
 
-## 📊 Streak
+## 📊
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ParthCh300X&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthCh300X&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ParthCh300X&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthCh300X&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ## 📫
 
