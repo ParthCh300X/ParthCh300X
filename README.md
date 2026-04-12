@@ -25,13 +25,6 @@ I build systems that run locally, respond in real-time, and don’t depend on pe
 
 ---
 
-### 📊 AI Sales Call Analyzer
-- LLM-based system for analyzing **sentiment and objection patterns**  
-- Structured prompt pipelines for consistent outputs  
-- Designed around real usage: actionable insights, not raw data  
-
----
-
 ## 🧰 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=kotlin,java,cpp,python,androidstudio,tensorflow,firebase,sqlite,arduino,git,github)
